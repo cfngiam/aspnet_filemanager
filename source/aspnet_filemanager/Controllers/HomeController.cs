@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace aspnet_filemanager.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : MainController
     {
         public ActionResult Index()
         {

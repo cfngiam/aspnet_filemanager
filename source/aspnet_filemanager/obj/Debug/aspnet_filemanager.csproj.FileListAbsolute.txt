@@ -50,3 +50,7 @@ C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\so
 C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\source\aspnet_filemanager\bin\Newtonsoft.Json.xml
 C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\source\aspnet_filemanager\obj\Debug\aspnet_filemanager.dll
 C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\source\aspnet_filemanager\obj\Debug\aspnet_filemanager.pdb
+C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\source\aspnet_filemanager\bin\EntityFramework.dll
+C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\source\aspnet_filemanager\bin\EntityFramework.SqlServer.dll
+C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\source\aspnet_filemanager\bin\EntityFramework.xml
+C:\Users\t_raphaels2\Documents\Visual Studio 2015\Projects\aspnet_filemanager\source\aspnet_filemanager\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,17 @@
+﻿@using aspnet_filemanager.Helpers
+
+
+@if (SessionManager.GetUser() != null)
+{
+    using (Html.BeginForm("LogOff", "Login", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <p>Hello @SessionManager.GetUser().Name</p>                
+            </li>
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+        </ul>
+    }
+}
+
+
